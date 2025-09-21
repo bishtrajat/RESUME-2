@@ -94,7 +94,7 @@ p {font-size: 24px;
     border-width: 8px;
     border-style: solid;
     border-color: rgb(0, 0, 0);
-    background: url(/images/image1.jpeg) 0% 0% / cover rgb(229, 23, 23);
+    background: url(images/image1.png) 0% 0% / cover rgb(229, 23, 23);
 }
 #box4 {
     height: 325px;
@@ -121,7 +121,7 @@ p {font-size: 24px;
     border-width: 8px;
     border-style: solid;
     border-color: rgb(0, 0, 0);
-    background: url(/images/image2.png) 0% 0% / cover rgb(229, 23, 23);
+    background: url(images/image2.png) 0% 0% / cover rgb(229, 23, 23);
 }
 #box6{
     height: 225px;
@@ -148,7 +148,7 @@ p {font-size: 24px;
     border-width: 8px;
     border-style: solid;
     border-color: rgb(0, 0, 0);
-    background: url(/images/image3.png) 0% 0% / cover rgb(229, 23, 23);
+    background: url(images/image3.png) 0% 0% / cover rgb(229, 23, 23);
 }
 #box8{
     height: 225px;
@@ -175,7 +175,7 @@ p {font-size: 24px;
     border-width: 8px;
     border-style: solid;
     border-color: rgb(0, 0, 0);
-    background: url(/images/image4.png) 0% 0% / cover rgb(229, 23, 23);
+    background: url(images/image4.png) 0% 0% / cover rgb(229, 23, 23);
 }
 .ending
 {
@@ -199,7 +199,7 @@ p {font-size: 24px;
     width: 50px;
     background: #000000;
     display: inline-block;
-    background-image: url(/images/instagram.png);
+    background-image: url(images/instagram.png);
     background-size: cover;
     padding: 0%;
     left: 20px;
@@ -214,7 +214,7 @@ p {font-size: 24px;
     width: 50px;
     background: #000000;
     display: inline-block;
-    background-image: url(/images/linkedin.png);
+    background-image: url(images/linkedin.png);
     background-size: cover;
     padding: 0%;
     left: 20px;
@@ -229,7 +229,7 @@ p {font-size: 24px;
     width: 50px;
     background: #000000;
     display: inline-block;
-    background-image: url(/images/whatsapp.png);
+    background-image: url(images/whatsapp.png);
     background-size: cover;
     left: 20px;
 }
@@ -243,7 +243,7 @@ p {font-size: 24px;
     height: 100px;
     width: 150px;
     display: inline-block;
-    background-image: url(/images/icon.png);
+    background-image: url(images/icon.png);
     background-size: cover;
     padding: 0%;
 }
@@ -254,6 +254,6 @@ p {font-size: 24px;
     height: 200px;
     width: 355px;
     display:inline-block;
-    background-image: url(/images/homescreen.png);
+    background-image: url(images/homescreen.png);
     background-size: cover;
     padding: 0%;}
